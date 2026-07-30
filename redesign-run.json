@@ -19,5 +19,9 @@
   ],
   "draftAttempts": [
     "draft-dfa824f4"
-  ]
+  ],
+  "buildCommands": [
+    "build-1"
+  ],
+  "repairCommands": []
 }
